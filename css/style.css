@@ -2,3 +2,8 @@
     background-color: hsl(263, 55%, 52%);
 }
 
+.profile-image{
+
+    border: 2px, solid, hsl(264, 82%, 80%);
+    border-radius: 50%;
+}
