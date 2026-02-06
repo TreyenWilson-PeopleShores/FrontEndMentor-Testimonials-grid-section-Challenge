@@ -2,13 +2,31 @@
 
 #Daniel{
     background-color: hsl(263, 55%, 52%);
-    min-width: 300px;
+    max-width: 300px;
     max-height: 505px;
+}
+
+#Jonathan{
+    background-color: hsl(217, 19%, 35%);
+    max-width: 300px;
+    max-height: 400px;
+    
 
 }
+
+#Kira{
+    background-color: hsl(263, 55%, 52%);
+    max-width: 300px;
+    max-height: 570px;
+}
+
 @media (min-width: 768px){
     #Daniel{
         min-width: 570px;
+        max-height: 340px;
+    }
+    #Jonathan{
+        min-width: 270px;
         max-height: 340px;
     }
     p{
@@ -19,7 +37,7 @@
     }
 }
 
-.profile-image{
+.profile-image-Daniel{
 
     border: 2px, solid, hsl(264, 82%, 80%);
     border-radius: 50%;
