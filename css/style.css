@@ -8,10 +8,15 @@
 }
 @media (min-width: 768px){
     #Daniel{
-        min-width: 700px;
-        max-height: 400px;
+        min-width: 570px;
+        max-height: 340px;
     }
-
+    p{
+        font-size: 14px !important;
+    }
+    h5{
+        font-size: 22px !important;
+    }
 }
 
 .profile-image{
@@ -19,3 +24,4 @@
     border: 2px, solid, hsl(264, 82%, 80%);
     border-radius: 50%;
 }
+
