@@ -1,7 +1,16 @@
+
+
 #Daniel{
     background-color: hsl(263, 55%, 52%);
     min-width: 300px;
     max-height: 505px;
+
+}
+@media (min-width: 768px){
+    #Daniel{
+        min-width: 700px;
+        max-height: 400px;
+    }
 
 }
 
