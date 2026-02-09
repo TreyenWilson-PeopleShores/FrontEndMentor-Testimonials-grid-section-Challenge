@@ -1,3 +1,5 @@
+This is my project for my SBA 326 - Design and Development assignment. To run it, click on index.html. Make sure style.css is inside the css folder. I was unable to fully get the 1440 view to look as it did in the picture, Kira would never be placed side by side with the others, unless there were gaps between them all. However, I was able to perfect the mobile aspect of the design.
+
 # Frontend Mentor - Testimonials grid section
 
 ![Design preview for the Testimonials grid section coding challenge](./preview.jpg)
